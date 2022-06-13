@@ -4,7 +4,7 @@
 
 The project is divided into 3 parts:
 
-1. Converting Data into usable format and data cleaning:
+1. Converting Data into usable format and data cleaning: <br>
           OpenCV has been used for this purpose majorly. Image classification in this case uses only face as the parameter for checking. So first all the images are 
           cropped into images which contain only face provided both the eyes are visible (using Haarcascades).
 
