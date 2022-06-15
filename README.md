@@ -1,6 +1,9 @@
 # Football_Stars_Image_Classifier
 
-### This is a Machine-Learning Model which classifies between 10 football players, whose names have been listed in the form of a Dictionary.
+### This is a Machine-Learning Model which classifies between 10 football players, whose names have been listed in the form of a Dictionary. The main file is located in server folder by the name 'app.py' which is a Streamlit driven python file, which runs on Localhost. I have attached a screeshot of the final API.
+
+![Screenshot (65)](https://user-images.githubusercontent.com/87764530/173772538-ddd52ec7-a610-462a-b13b-44546cf2e711.png)
+
 
 The project is divided into 3 parts:
 
@@ -14,3 +17,5 @@ The project is divided into 3 parts:
 #### 3. Executing the saved model<br>
           Artifact loader, wavelet transform and main function - classify_image are used to execute the joblib file (saved format of trained model). The result is the 
           predicted player(s)' names and the input image.
+          
+          
