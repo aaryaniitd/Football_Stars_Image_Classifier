@@ -1,6 +1,8 @@
 # Football Stars Image Classifier
 
-#### This is a Machine-Learning Model which classifies between 10 football players, whose names have been listed in the form of a Dictionary. The main file is located in server folder by the name 'app.py' which is a Streamlit driven python file, which runs on Localhost. I have attached a screeshot of the final API.
+#### This is a Machine-Learning Model which classifies between 10 football players, whose names have been listed in the form of a Dictionary. The main file is located in server folder by the name 'app.py' which is a Streamlit driven python file, which runs on Localhost. 
+
+### I have attached a screeshot of the final API.
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/87764530/173772990-d0ee68d1-0948-410e-becd-797f13218ccc.png)
 
